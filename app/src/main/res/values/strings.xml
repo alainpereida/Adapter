@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Adapter</string>
+
+    <string-array name="cheese">
+        <item>Parmesan</item>
+        <item>Ricotta</item>
+        <item>Fontina</item>
+        <item>Mozzarella</item>
+        <item>Cheddar</item>
+    </string-array>
+</resources>
